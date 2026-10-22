@@ -1,3 +1,7 @@
 Hello there!
 Kaise ho?
+<<<<<<< HEAD
 Badhiya ba!
+=======
+Chauthi line
+>>>>>>> 6d8cf45 (Added fourth line)
